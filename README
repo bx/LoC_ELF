@@ -1,2 +1,8 @@
-Requires pyelfutils and intervaltree python modules
+Requires pyelfutils and intervaltree python modules, python 2
 ELF must be built with debugging symbols ('-g' flag)
+
+
+usage:
+./loc.py <path to elf>
+or
+./log.py -a <path to addr2line> <path to elf>

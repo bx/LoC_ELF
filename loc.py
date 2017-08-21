@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 # MIT License
 
 # Copyright (c) 2017 Rebecca ".bx" Shapiro
