@@ -1,0 +1,9 @@
+import sys
+import os
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 1:
+        print "Requires path to binary from which to calculate LoC, i.e. loc.py <path>"
+
+    bin = sys.argv[1]
